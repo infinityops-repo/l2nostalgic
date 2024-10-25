@@ -1,0 +1,59 @@
+[25/10 19:05:22] Database: Problem on initialize. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:05:22] ThreadPool: Initialized
+[25/10 19:05:22] ...scheduled pool executor with 2 total threads.
+[25/10 19:05:22] ...instant pool executor with 2 total threads.
+[25/10 19:05:22] Loading LoginController...
+[25/10 19:05:22] Cached 10 KeyPairs for RSA communication.
+[25/10 19:05:23] Stored 20 keys for Blowfish communication.
+[25/10 19:05:23] Loaded 127 server names.
+[25/10 19:05:33] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:05:43] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:05:53] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:06:03] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:06:13] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:06:23] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:06:33] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:06:43] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:06:53] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:07:03] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:07:13] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:07:23] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:07:33] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:07:43] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:07:53] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:08:03] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:08:13] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:08:23] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:08:33] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:08:43] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:08:53] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:09:03] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:09:13] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:09:23] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:09:33] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:09:43] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:09:53] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:10:03] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:10:13] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:10:23] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:10:33] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:10:43] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:10:53] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:11:03] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:11:13] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:11:23] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:11:33] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:11:43] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:11:53] Database: Could not get a connection. java.sql.SQLSyntaxErrorException: No connection available within the specified time (option 'connectTimeout': 10,000 ms)
+[25/10 19:11:53] Loaded 1 registered Game Servers.
+[25/10 19:11:53] Cached 10 RSA keys for Game Server communication.
+[25/10 19:11:53] Loaded 2 IP Bans.
+[25/10 19:11:53] Listening for GameServers on 127.0.0.1:9014
+[25/10 19:11:53] LoginServer: is now listening on: 0.0.0.0:2106
+[25/10 19:13:02] Auto created account 'admin'.
+[25/10 19:17:23] Updated Gameserver [1] Bartz IP's:
+[25/10 19:17:23] 10.108.0.2/10.108.0.0/20
+[25/10 19:17:23] 10.17.0.5/10.17.0.0/16
+[25/10 19:17:23] 161.35.135.230/161.35.128.0/20
+[25/10 19:17:23] 127.0.0.1/127.0.0.0/8
+[25/10 19:17:23] 161.35.135.230/0.0.0.0/0
