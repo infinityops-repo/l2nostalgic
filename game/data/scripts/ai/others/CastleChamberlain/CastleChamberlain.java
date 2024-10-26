@@ -393,7 +393,7 @@ public class CastleChamberlain extends AbstractNpcAI
 	}
 	
 	@Override
-	public String onAdvEvent(String event, Npc npc, Player player)
+	public String onEvent(String event, Npc npc, Player player)
 	{
 		final Castle castle = npc.getCastle();
 		final StringTokenizer st = new StringTokenizer(event, " ");
@@ -1196,7 +1196,7 @@ public class CastleChamberlain extends AbstractNpcAI
 	// @formatter:on
 	public void onNpcManorBypass(OnNpcManorBypass evt)
 	{
-		final Player player = evt.getActiveChar();
+		final Player player = evt.getPlayer();
 		final Npc npc = evt.getTarget();
 		if (isOwner(player, npc))
 		{

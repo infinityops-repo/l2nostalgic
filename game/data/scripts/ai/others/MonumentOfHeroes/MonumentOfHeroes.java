@@ -69,7 +69,7 @@ public class MonumentOfHeroes extends AbstractNpcAI
 	}
 	
 	@Override
-	public String onAdvEvent(String event, Npc npc, Player player)
+	public String onEvent(String event, Npc npc, Player player)
 	{
 		String htmltext = null;
 		switch (event)
@@ -184,7 +184,7 @@ public class MonumentOfHeroes extends AbstractNpcAI
 				{
 					if (!player.isSubClassActive())
 					{
-						if (player.getLevel() >= 55)
+						if (player.isInCategory(CategoryType.FOURTH_CLASS_GROUP) && player.isNoble())
 						{
 							Hero.getInstance().claimHero(player);
 							showOnScreenMsg(player, (NpcStringId.getNpcStringId(13357 + player.getClassId().getId())), ExShowScreenMessage.TOP_CENTER, 5000);
@@ -229,7 +229,7 @@ public class MonumentOfHeroes extends AbstractNpcAI
 	@Override
 	public String onFirstTalk(Npc npc, Player player)
 	{
-		if ((!player.isInCategory(CategoryType.THIRD_CLASS_GROUP) && !player.isInCategory(CategoryType.FOURTH_CLASS_GROUP)) || (player.getLevel() < 55))
+		if (!player.isInCategory(CategoryType.FOURTH_CLASS_GROUP) || !player.isNoble())
 		{
 			return "MonumentOfHeroes-noNoblesse.html";
 		}
