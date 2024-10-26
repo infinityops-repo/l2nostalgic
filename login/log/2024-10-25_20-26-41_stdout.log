@@ -1,0 +1,5 @@
+[25/10 20:26:40] Database: Initialized.
+[25/10 20:26:40] ThreadPool: Initialized
+[25/10 20:26:41] ...scheduled pool executor with 2 total threads.
+[25/10 20:26:41] ...instant pool executor with 2 total threads.
+[25/10 20:26:41] Loading LoginController...

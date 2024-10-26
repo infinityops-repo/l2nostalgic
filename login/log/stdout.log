@@ -1,15 +1,15 @@
-[25/10 19:44:32] Database: Initialized.
-[25/10 19:44:32] ThreadPool: Initialized
-[25/10 19:44:32] ...scheduled pool executor with 2 total threads.
-[25/10 19:44:32] ...instant pool executor with 2 total threads.
-[25/10 19:44:32] Loading LoginController...
-[25/10 19:44:34] Cached 10 KeyPairs for RSA communication.
-[25/10 19:44:34] Stored 20 keys for Blowfish communication.
-[25/10 19:44:34] Loaded 127 server names.
-[25/10 19:44:34] Loaded 1 registered Game Servers.
-[25/10 19:44:34] Cached 10 RSA keys for Game Server communication.
-[25/10 19:44:34] Loaded 2 IP Bans.
-[25/10 19:44:34] FATAL: Failed to start the Game Server Listener. Reason: Address already in use
+[26/10 13:20:41] Database: Initialized.
+[26/10 13:20:42] ThreadPool: Initialized
+[26/10 13:20:42] ...scheduled pool executor with 2 total threads.
+[26/10 13:20:42] ...instant pool executor with 2 total threads.
+[26/10 13:20:42] Loading LoginController...
+[26/10 13:20:43] Cached 10 KeyPairs for RSA communication.
+[26/10 13:20:43] Stored 20 keys for Blowfish communication.
+[26/10 13:20:43] Loaded 127 server names.
+[26/10 13:20:43] Loaded 1 registered Game Servers.
+[26/10 13:20:43] Cached 10 RSA keys for Game Server communication.
+[26/10 13:20:43] Loaded 2 IP Bans.
+[26/10 13:20:43] FATAL: Failed to start the Game Server Listener. Reason: Address already in use
 java.net.BindException: Address already in use
 	at java.base/sun.nio.ch.Net.bind0(Native Method)
 	at java.base/sun.nio.ch.Net.bind(Net.java:565)

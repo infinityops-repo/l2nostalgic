@@ -1,0 +1,24 @@
+[25/10 22:32:10] Database: Initialized.
+[25/10 22:32:10] ThreadPool: Initialized
+[25/10 22:32:10] ...scheduled pool executor with 2 total threads.
+[25/10 22:32:10] ...instant pool executor with 2 total threads.
+[25/10 22:32:10] Loading LoginController...
+[25/10 22:32:11] Cached 10 KeyPairs for RSA communication.
+[25/10 22:32:11] Stored 20 keys for Blowfish communication.
+[25/10 22:32:12] Loaded 127 server names.
+[25/10 22:32:12] Loaded 1 registered Game Servers.
+[25/10 22:32:12] Cached 10 RSA keys for Game Server communication.
+[25/10 22:32:12] Loaded 2 IP Bans.
+[25/10 22:32:12] FATAL: Failed to start the Game Server Listener. Reason: Address already in use
+java.net.BindException: Address already in use
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:391)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:278)
+	at org.l2jmobius.loginserver.FloodProtectedListener.<init>(FloodProtectedListener.java:50)
+	at org.l2jmobius.loginserver.GameServerListener.<init>(GameServerListener.java:35)
+	at org.l2jmobius.loginserver.LoginServer.<init>(LoginServer.java:124)
+	at org.l2jmobius.loginserver.LoginServer.main(LoginServer.java:59)
+

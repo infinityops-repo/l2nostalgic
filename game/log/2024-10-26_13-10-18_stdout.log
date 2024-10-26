@@ -1,0 +1,478 @@
+[25/10 20:28:41] Network Config: ipconfig.xml doesn't exist using automatic configuration...
+[25/10 20:28:41] Network Config: Adding new subnet: 10.108.0.0/20 address: 10.108.0.2
+[25/10 20:28:41] Network Config: Adding new subnet: 10.17.0.0/16 address: 10.17.0.5
+[25/10 20:28:41] Network Config: Adding new subnet: 161.35.128.0/20 address: 161.35.135.230
+[25/10 20:28:41] Network Config: Adding new subnet: 127.0.0.0/8 address: 127.0.0.1
+[25/10 20:28:41] Network Config: Adding new subnet: 0.0.0.0/0 address: 161.35.135.230
+[25/10 20:28:41] Loaded 6 Filter Words.
+[25/10 20:28:41] ------------------------------------------------=[ Database ]
+[25/10 20:28:43] Database: Initialized.
+[25/10 20:28:43] ----------------------------------------------=[ ThreadPool ]
+[25/10 20:28:43] ThreadPool: Initialized
+[25/10 20:28:43] ...scheduled pool executor with 2 high priority threads.
+[25/10 20:28:43] ...scheduled pool executor with 8 total threads.
+[25/10 20:28:43] ...instant pool executor with 4 total threads.
+[25/10 20:28:43] -----------------------------------------------=[ IdManager ]
+[25/10 20:28:43] Updated characters online status.
+[25/10 20:28:43] IdManager: Cleaned 0 elements from database in 0 seconds.
+[25/10 20:28:43] IdManager: Cleaned 0 expired timestamps from database.
+[25/10 20:28:43] IdManager: 102912 id's available.
+[25/10 20:28:43] ----------------------------------------=[ Scripting Engine ]
+[25/10 20:28:44] Loaded 792 files to exclude.
+[25/10 20:28:44] ---------------------------------------------------=[ World ]
+[25/10 20:28:45] MapRegionManager: Loaded 57 map regions.
+[25/10 20:28:45] ZoneManager 19 by 18 Zone Region Grid set up.
+[25/10 20:28:47] ZoneManager: Loaded 32 zone classes and 2742 zones.
+[25/10 20:28:47] ZoneManager: Last static id 200224.
+[25/10 20:28:47] DoorData: Loaded 1180 doors.
+[25/10 20:28:47] FenceData: Loaded 1 fences.
+[25/10 20:28:47] GlobalVariablesManager: Loaded 3 variables.
+[25/10 20:28:47] ----------------------------------------------------=[ Data ]
+[25/10 20:28:48] ActionData: Loaded 242 player actions.
+[25/10 20:28:48] CategoryData: Loaded 215 categories.
+[25/10 20:28:48] SecondaryAuthData: Loaded 328 forbidden passwords.
+[25/10 20:28:48] Dir /home/l2nostalgic/game/data/stats/items/custom does not exist.
+[25/10 20:28:56] ItemData: Highest item id used: 90726
+[25/10 20:28:56] ItemData: Loaded 21741 Etc Items
+[25/10 20:28:56] ItemData: Loaded 11226 Armor Items
+[25/10 20:28:56] ItemData: Loaded 8662 Weapon Items
+[25/10 20:28:56] ItemData: Loaded 41629 Items in total.
+[25/10 20:28:56] CombinationItemsData: Loaded 855 combinations.
+[25/10 20:28:56] SayuneData: Loaded 0 maps.
+[25/10 20:28:56] ClanRewardData: Loaded 4 rewards for members online.
+[25/10 20:28:56] ClanRewardData: Loaded 4 rewards for hunting monsters.
+[25/10 20:29:00] DailyMissionMasterHandler: Loaded 9 handlers.
+[25/10 20:29:00] DailyMissionData: Loaded 0 one day rewards.
+[25/10 20:29:00] --------------------------------------------------=[ Skills ]
+[25/10 20:29:17] EffectMasterHandler: Loaded 365 effect handlers.
+[25/10 20:29:17] EnchantSkillGroupsData: Loaded 30 enchant routes, max enchant set to 30.
+[25/10 20:29:33] SkillData: Loaded 123350 Skills.
+[25/10 20:29:35] SkillTreeData: Loaded 13708 Class skills for 89 class skill trees.
+[25/10 20:29:35] SkillTreeData: Loaded 0 sub-class skills.
+[25/10 20:29:35] SkillTreeData: Loaded 0 dual-class skills.
+[25/10 20:29:35] SkillTreeData: Loaded 0 transfer skills for 0 transfer skill trees.
+[25/10 20:29:35] SkillTreeData: Loaded 0 race skills for 0 race skill trees.
+[25/10 20:29:35] SkillTreeData: Loaded 35 fishing skills, 8 Dwarven only fishing skills.
+[25/10 20:29:35] SkillTreeData: Loaded 0 collect skills.
+[25/10 20:29:35] SkillTreeData: Loaded 73 clan skills, 43 for clan and 30 residential.
+[25/10 20:29:35] SkillTreeData: Loaded 18 sub-pledge skills.
+[25/10 20:29:35] SkillTreeData: Loaded 32 transform skills.
+[25/10 20:29:35] SkillTreeData: Loaded 8 noble skills.
+[25/10 20:29:35] SkillTreeData: Loaded 5 hero skills.
+[25/10 20:29:35] SkillTreeData: Loaded 34 game master skills.
+[25/10 20:29:35] SkillTreeData: Loaded 1 game master aura skills.
+[25/10 20:29:35] SkillTreeData: Loaded 0 ability skills.
+[25/10 20:29:35] SkillTreeData: Loaded 0 alchemy skills.
+[25/10 20:29:35] SkillTreeData: Loaded 0 class awaken save skills.
+[25/10 20:29:35] SkillTreeData: Loaded 0 Revelation skills.
+[25/10 20:29:35] SkillTreeData: Loaded 16 common skills.
+[25/10 20:29:35] PetSkillData: Loaded 1046 skills.
+[25/10 20:29:35] ---------------------------------------------------=[ Items ]
+[25/10 20:29:35] EnchantItemGroupsData: Loaded 4 item group templates.
+[25/10 20:29:35] EnchantItemGroupsData: Loaded 1 scroll group templates.
+[25/10 20:29:35] EnchantItemGroupsData: Max weapon enchant is set to 30.
+[25/10 20:29:35] EnchantItemGroupsData: Max armor enchant is set to 30.
+[25/10 20:29:35] EnchantItemGroupsData: Max accessory enchant is set to 30.
+[25/10 20:29:35] EnchantItemData: Loaded 248 enchant scrolls.
+[25/10 20:29:35] EnchantItemData: Loaded 100 support items.
+[25/10 20:29:39] OptionData: Loaded 34053 options.
+[25/10 20:29:40] EnchantItemOptionsData: Loaded 68 items and 1747 options.
+[25/10 20:29:40] ElementalAttributeData: Loaded 0 elemental attribute items.
+[25/10 20:29:40] ItemCrystallizationData: Loaded 12 crystallization templates.
+[25/10 20:29:40] ItemCrystallizationData: Loaded 0 pre-defined crystallizable items.
+[25/10 20:29:40] ItemCrystallizationData: Generated 0 crystallizable items from templates.
+[25/10 20:29:40] VariationData: Loaded 120 variations.
+[25/10 20:29:40] VariationData: Loaded 4717 fees.
+[25/10 20:29:40] EnchantItemHPBonusData: Loaded 11 enchant HP bonuses.
+[25/10 20:29:41] BuyListData: Loaded 481 buyLists.
+[25/10 20:29:42] MultisellData: Loaded 84 multisell lists.
+[25/10 20:29:42] RecipeData: Loaded 630 recipes.
+[25/10 20:29:42] ArmorSetData: Loaded 317 armor sets.
+[25/10 20:29:42] FishingData: Loaded 3 bait and 13 rod data.
+[25/10 20:29:42] HennaData: Loaded 372 henna data.
+[25/10 20:29:42] PrimeShopData: System is disabled.
+[25/10 20:29:43] AppearanceItemData: Loaded 1217 stones.
+[25/10 20:29:43] LuckyGameData: Loaded 2 lucky game data.
+[25/10 20:29:43] AttendanceRewardData: Loaded 28 rewards.
+[25/10 20:29:43] ----------------------------------------------=[ Characters ]
+[25/10 20:29:43] ClassListData: Loaded 153 class data.
+[25/10 20:29:43] InitialEquipmentData: Loaded 9 initial equipment data.
+[25/10 20:29:43] InitialShortcutData: Loaded 5 initial global shortcuts data.
+[25/10 20:29:43] InitialShortcutData: Loaded 4 initial shortcuts data.
+[25/10 20:29:43] InitialShortcutData: Loaded 0 macro presets.
+[25/10 20:29:43] ExperienceData: Loaded 81 levels.
+[25/10 20:29:43] ExperienceData: Max Player Level is 80.
+[25/10 20:29:43] ExperienceData: Max Pet Level is 81.
+[25/10 20:29:43] KarmaData: Loaded 80 karma modifiers.
+[25/10 20:29:43] HitConditionBonusData: Loaded hit condition bonuses.
+[25/10 20:29:43] PlayerTemplateData: Loaded 89 character templates.
+[25/10 20:29:43] PlayerTemplateData: Loaded 42720 level up gain records.
+[25/10 20:29:43] CharInfoTable: Loaded 1 char names.
+[25/10 20:29:43] AdminData: Loaded 10 access levels.
+[25/10 20:29:43] AdminData: Loaded 458 access commands.
+[25/10 20:29:45] PetDataTable: Loaded 56 pets.
+[25/10 20:29:45] CubicData: Loaded 21 cubics.
+[25/10 20:29:45] ---------------------------------------------------=[ Clans ]
+[25/10 20:29:45] ForumsBBSManager: Loaded 4 forums. Last forum id used: 4
+[25/10 20:29:45] ClanTable: Restored 0 clans from the database.
+[25/10 20:29:45] ResidenceFunctionsData: Loaded 8 functions.
+[25/10 20:29:46] ClanHallData: Succesfully loaded 48 clan halls.
+[25/10 20:29:46] ClanHallAuctionManager: Clan Hall Auction has started!
+[25/10 20:29:46] ClanEntryManager: Loaded 0 clan entries.
+[25/10 20:29:46] ClanEntryManager: Loaded 0 players in waiting list.
+[25/10 20:29:46] ClanEntryManager: Loaded 0 player applications.
+[25/10 20:29:46] -------------------------------------------------=[ Geodata ]
+[25/10 20:29:46] GeoEngine: Loaded 0 regions.
+[25/10 20:29:46] ----------------------------------------------------=[ NPCs ]
+[25/10 20:29:54] NpcData: Loaded 14865 NPCs.
+[25/10 20:29:54] NpcData: Loaded 14 custom NPCs.
+[25/10 20:29:54] FakePlayerData: Disabled.
+[25/10 20:29:54] FakePlayerChatManager: Disabled.
+[25/10 20:29:56] SpawnData: Loaded 27221 spawns
+[25/10 20:30:03] WalkingManager: Loaded 13 walking routes.
+[25/10 20:30:03] StaticObjectData: Loaded 86 static object templates.
+[25/10 20:30:03] ItemAuctionManager: Disabled.
+[25/10 20:30:03] CastleManager: Loaded 9 castles.
+[25/10 20:30:03] SchemeBufferTable: Loaded 0 players schemes and 60 available buffs.
+[25/10 20:30:03] GrandBossManager: Gigantic Chaos Golem(25512) status is 0
+[25/10 20:30:03] GrandBossManager: Queen Ant(29001) status is 0
+[25/10 20:30:03] GrandBossManager: Core(29006) status is 0
+[25/10 20:30:03] GrandBossManager: Orfen(29014) status is 0
+[25/10 20:30:03] GrandBossManager: Baium(29020) status is 0
+[25/10 20:30:03] GrandBossManager: Zaken(29022) status is 0
+[25/10 20:30:03] GrandBossManager: Valakas(29028) status is 0
+[25/10 20:30:03] GrandBossManager: Antharas(29068) status is 0
+[25/10 20:30:03] GrandBossManager: Loaded 8 instances.
+[25/10 20:30:03] ------------------------------------------------=[ Instance ]
+[25/10 20:30:03] InstanceManager: Loaded 267 instance names.
+[25/10 20:30:03] InstanceManager: Loaded 6 instance templates.
+[25/10 20:30:03] InstanceManager: Loaded instance reenter times for 0 players.
+[25/10 20:30:03] ------------------------------------------------=[ Olympiad ]
+[25/10 20:30:03] Olympiad System: Loading....
+[25/10 20:30:03] Olympiad System: Currently in Olympiad Period
+[25/10 20:30:03] Olympiad System: 29 days, 15 hours and 29 mins until period ends.
+[25/10 20:30:03] Olympiad System: Next weekly change is in 6 days, 22 hours and 51 mins.
+[25/10 20:30:03] Olympiad System: Loaded 0 Nobles
+[25/10 20:30:03] Olympiad System: Competition Period Starts in 0 days, 0 hours and 0 mins.
+[25/10 20:30:03] Olympiad System: Event starts/started: Fri Oct 25 18:00:03 UTC 2024
+[25/10 20:30:03] Hero System: Loaded 0 Heroes.
+[25/10 20:30:03] Hero System: Loaded 0 all time Heroes.
+[25/10 20:30:03] Olympiad System: Olympiad Games have started.
+[25/10 20:30:03] ---------------------------------------------------=[ Cache ]
+[25/10 20:30:03] Cache[HTML]: Running lazy cache.
+[25/10 20:30:03] CrestTable: Loaded 0 Crests.
+[25/10 20:30:04] TeleporterData: Loaded 145 npc teleporters.
+[25/10 20:30:09] TransformData: Loaded 174 transform templates.
+[25/10 20:30:09] BotReportTable: Loaded 0 bot reports
+[25/10 20:30:09] -------------------------------------------------=[ Scripts ]
+[25/10 20:30:09] AirShipManager: Loaded 0 private airships
+[25/10 20:30:09] ShuttleData: Loaded 1 shuttles.
+[25/10 20:30:09] GameServer: Loading server scripts:
+[25/10 20:30:12] DBSpawnManager: Loaded 225 instances.
+[25/10 20:30:12] DBSpawnManager: Scheduled 0 instances.
+[25/10 20:30:14] Olympiad System: Loaded 80 stadiums.
+[25/10 20:30:25] Loading Handlers...
+[25/10 20:30:25] ActionHandler: Loaded 10 handlers.
+[25/10 20:30:25] ActionShiftHandler: Loaded 6 handlers.
+[25/10 20:30:25] AdminCommandHandler: Loaded 450 handlers.
+[25/10 20:30:25] BypassHandler: Loaded 31 handlers.
+[25/10 20:30:25] ChatHandler: Loaded 14 handlers.
+[25/10 20:30:25] CommunityBoardHandler: Loaded 24 handlers.
+[25/10 20:30:25] ItemHandler: Loaded 30 handlers.
+[25/10 20:30:25] PunishmentHandler: Loaded 3 handlers.
+[25/10 20:30:25] UserCommandHandler: Loaded 16 handlers.
+[25/10 20:30:25] VoicedCommandHandler: Loaded 7 handlers.
+[25/10 20:30:25] TargetHandler: Loaded 21 handlers.
+[25/10 20:30:25] AffectObjectHandler: Loaded 11 handlers.
+[25/10 20:30:25] AffectScopeHandler: Loaded 19 handlers.
+[25/10 20:30:25] PlayerActionHandler: Loaded 24 handlers.
+[25/10 20:30:25] Handlers Loaded...
+[25/10 20:30:42] [EnhanceYourWeapon] Loaded 54 Soul Crystal data.
+[25/10 20:30:42] [EnhanceYourWeapon] Loaded 124 npc Leveling info data.
+[25/10 20:30:42] GrandBossManager: Updated Zaken(29022) status to 0.
+[25/10 20:30:42] [Four Sepulchers] Loaded 762 spawn zones data.
+[25/10 20:30:42] ClassMaster: Loaded 0 class change options.
+[25/10 20:30:42] Event The Power Of Love has passed... Ignored 
+[25/10 20:30:42] Event Watermelon Ninja has passed... Ignored 
+[25/10 20:30:42] Event Rudolphs Blessing has passed... Ignored 
+[25/10 20:30:42] Event Happy Hours has passed... Ignored 
+[25/10 20:30:42] Event Merry Squashmas Event has passed... Ignored 
+[25/10 20:30:42] Event Squash Event has passed... Ignored 
+[25/10 20:30:42] Event Eve the Fortune Teller has passed... Ignored 
+[25/10 20:30:42] SpawnData: Initializing spawns...
+[25/10 20:30:58] SpawnData: All spawns has been initialized!
+[25/10 20:30:58] ---------------------------------------------------=[ Siege ]
+[25/10 20:30:58] SiegeScheduleData: Loaded 9 siege schedulers.
+[25/10 20:30:58] Siege of Gludio: Sun Nov 03 16:00:00 UTC 2024
+[25/10 20:30:58] Siege of Dion: Sun Nov 03 20:00:00 UTC 2024
+[25/10 20:30:58] Siege of Giran: Sun Nov 03 16:00:00 UTC 2024
+[25/10 20:30:58] Siege of Oren: Sun Nov 03 20:00:00 UTC 2024
+[25/10 20:30:58] Siege of Aden: Sun Nov 03 16:00:00 UTC 2024
+[25/10 20:30:58] Siege of Innadril: Sun Nov 03 20:00:00 UTC 2024
+[25/10 20:30:58] Siege of Goddard: Sun Nov 03 16:00:00 UTC 2024
+[25/10 20:30:58] Siege of Rune: Sun Nov 03 20:00:00 UTC 2024
+[25/10 20:30:58] Siege of Schuttgart: Sun Nov 03 16:00:00 UTC 2024
+[25/10 20:30:58] CastleManorManager: Manor system is deactivated.
+[25/10 20:30:58] SiegeGuardManager: Loaded 0 siege guards tickets.
+[25/10 20:30:58] QuestManager: Loaded 214 quests.
+[25/10 20:30:58] QuestManager: Loaded 115 scripts.
+[25/10 20:30:58] MonsterRace: loaded 3 records, currently on race #4
+[25/10 20:30:58] TaskManager: Loaded 5 Tasks.
+[25/10 20:30:58] DailyTaskManager: Next schedule at 26/10 06:30.
+[25/10 20:30:58] MailManager: Loaded 0 messages.
+[25/10 20:30:58] PunishmentManager: Loaded 0 active and 0 expired punishments.
+[25/10 20:30:58] IdManager: Free ObjectID's remaining: 1879007697
+[25/10 20:30:58] OfflineTraderTable: Loading offline traders...
+[25/10 20:30:58] OfflineTraderTable: Loaded 0 offline traders.
+[25/10 20:31:01] GameServer: Started, using 707 of 4096 MB total memory.
+[25/10 20:31:01] GameServer: Maximum number of connected players is 2000.
+[25/10 20:31:01] GameServer: Server loaded in 140 seconds.
+[25/10 20:31:01] LoginServerThread: Connecting to login on 127.0.0.1:9014
+[25/10 20:31:02] LoginServerThread: Registered on login as Server 1: Bartz
+[25/10 20:31:18] Master access level set for character {ADM}TargetAll! Just a warning to be careful ;)
+[25/10 20:32:43] AdminData: No rights defined for admin command admin_set auto setting accesslevel: 100 !
+[25/10 20:32:57] No handler registered for admin command 'admin_setspeed'
+[25/10 21:00:58] GlobalVariablesManager: Stored 3 variables.
+[25/10 21:00:58] Olympiad System: Data updated.
+[25/10 21:30:58] GlobalVariablesManager: Stored 3 variables.
+[25/10 21:30:58] Olympiad System: Data updated.
+[25/10 22:00:58] GlobalVariablesManager: Stored 3 variables.
+[25/10 22:00:58] Olympiad System: Data updated.
+[25/10 22:27:27] No handler registered for admin command 'admin_enchat'
+[25/10 22:27:36] No handler registered for admin command 'admin_enchat'
+[25/10 22:30:58] GlobalVariablesManager: Stored 3 variables.
+[25/10 22:30:58] Olympiad System: Data updated.
+[25/10 22:31:05] No handler registered for admin command 'admin_enchat'
+[25/10 22:31:19] No handler registered for admin command 'admin_enchat'
+[25/10 22:31:28] No handler registered for admin command 'admin_enchat'
+[25/10 22:45:07] no buylist with id:300530
+[25/10 22:45:08] no buylist with id:300530
+[25/10 22:45:12] no buylist with id:300530
+[25/10 23:00:58] GlobalVariablesManager: Stored 3 variables.
+[25/10 23:00:58] Olympiad System: Data updated.
+[25/10 23:11:03] Replaced quest Q00032_AnObviousLie (32) with a new version!
+[25/10 23:11:03] Replaced quest Q00033_MakeAPairOfDressShoes (33) with a new version!
+[25/10 23:11:03] Replaced quest Q00034_InSearchOfCloth (34) with a new version!
+[25/10 23:11:03] Replaced quest Q00035_FindGlitteringJewelry (35) with a new version!
+[25/10 23:11:03] Replaced quest Q00036_MakeASewingKit (36) with a new version!
+[25/10 23:11:03] Replaced quest Q00037_MakeFormalWear (37) with a new version!
+[25/10 23:11:03] Replaced quest Q00042_HelpTheUncle (42) with a new version!
+[25/10 23:11:03] Replaced quest Q00043_HelpTheSister (43) with a new version!
+[25/10 23:11:03] Replaced quest Q00044_HelpTheSon (44) with a new version!
+[25/10 23:11:03] Replaced quest Q00070_SagaOfThePhoenixKnight (70) with a new version!
+[25/10 23:11:03] Replaced quest Q00071_SagaOfEvasTemplar (71) with a new version!
+[25/10 23:11:03] Replaced quest Q00072_SagaOfTheSwordMuse (72) with a new version!
+[25/10 23:11:03] Replaced quest Q00073_SagaOfTheDuelist (73) with a new version!
+[25/10 23:11:03] Replaced quest Q00074_SagaOfTheDreadnought (74) with a new version!
+[25/10 23:11:03] Replaced quest Q00075_SagaOfTheTitan (75) with a new version!
+[25/10 23:11:03] Replaced quest Q00076_SagaOfTheGrandKhavatari (76) with a new version!
+[25/10 23:11:03] Replaced quest Q00077_SagaOfTheDominator (77) with a new version!
+[25/10 23:11:04] Replaced quest Q00078_SagaOfTheDoomcryer (78) with a new version!
+[25/10 23:11:04] Replaced quest Q00079_SagaOfTheAdventurer (79) with a new version!
+[25/10 23:11:04] Replaced quest Q00080_SagaOfTheWindRider (80) with a new version!
+[25/10 23:11:04] Replaced quest Q00081_SagaOfTheGhostHunter (81) with a new version!
+[25/10 23:11:04] Replaced quest Q00082_SagaOfTheSagittarius (82) with a new version!
+[25/10 23:11:04] Replaced quest Q00083_SagaOfTheMoonlightSentinel (83) with a new version!
+[25/10 23:11:04] Replaced quest Q00084_SagaOfTheGhostSentinel (84) with a new version!
+[25/10 23:11:04] Replaced quest Q00085_SagaOfTheCardinal (85) with a new version!
+[25/10 23:11:04] Replaced quest Q00086_SagaOfTheHierophant (86) with a new version!
+[25/10 23:11:04] Replaced quest Q00087_SagaOfEvasSaint (87) with a new version!
+[25/10 23:11:04] Replaced quest Q00088_SagaOfTheArchmage (88) with a new version!
+[25/10 23:11:04] Replaced quest Q00089_SagaOfTheMysticMuse (89) with a new version!
+[25/10 23:11:04] Replaced quest Q00090_SagaOfTheStormScreamer (90) with a new version!
+[25/10 23:11:04] Replaced quest Q00091_SagaOfTheArcanaLord (91) with a new version!
+[25/10 23:11:04] Replaced quest Q00092_SagaOfTheElementalMaster (92) with a new version!
+[25/10 23:11:04] Replaced quest Q00093_SagaOfTheSpectralMaster (93) with a new version!
+[25/10 23:11:04] Replaced quest Q00094_SagaOfTheSoultaker (94) with a new version!
+[25/10 23:11:04] Replaced quest Q00095_SagaOfTheHellKnight (95) with a new version!
+[25/10 23:11:04] Replaced quest Q00096_SagaOfTheSpectralDancer (96) with a new version!
+[25/10 23:11:04] Replaced quest Q00097_SagaOfTheShillienTemplar (97) with a new version!
+[25/10 23:11:04] Replaced quest Q00098_SagaOfTheShillienSaint (98) with a new version!
+[25/10 23:11:04] Replaced quest Q00099_SagaOfTheFortuneSeeker (99) with a new version!
+[25/10 23:11:04] Replaced quest Q00100_SagaOfTheMaestro (100) with a new version!
+[25/10 23:11:04] Replaced quest Q00109_InSearchOfTheNest (109) with a new version!
+[25/10 23:11:04] Replaced quest Q00110_ToThePrimevalIsle (110) with a new version!
+[25/10 23:11:04] Replaced quest Q00111_ElrokianHuntersProof (111) with a new version!
+[25/10 23:11:04] Replaced quest Q00124_MeetingTheElroki (124) with a new version!
+[25/10 23:11:04] Replaced quest Q00125_TheNameOfEvil1 (125) with a new version!
+[25/10 23:11:04] Replaced quest Q00126_TheNameOfEvil2 (126) with a new version!
+[25/10 23:11:04] Replaced quest Q00127_FishingSpecialistsRequest (127) with a new version!
+[25/10 23:11:04] Replaced quest Q00210_ObtainAWolfPet (210) with a new version!
+[25/10 23:11:04] Replaced quest Q00211_TrialOfTheChallenger (211) with a new version!
+[25/10 23:11:04] Replaced quest Q00212_TrialOfDuty (212) with a new version!
+[25/10 23:11:04] Replaced quest Q00213_TrialOfTheSeeker (213) with a new version!
+[25/10 23:11:04] Replaced quest Q00214_TrialOfTheScholar (214) with a new version!
+[25/10 23:11:04] Replaced quest Q00215_TrialOfThePilgrim (215) with a new version!
+[25/10 23:11:04] Replaced quest Q00216_TrialOfTheGuildsman (216) with a new version!
+[25/10 23:11:04] Replaced quest Q00217_TestimonyOfTrust (217) with a new version!
+[25/10 23:11:04] Replaced quest Q00218_TestimonyOfLife (218) with a new version!
+[25/10 23:11:04] Replaced quest Q00219_TestimonyOfFate (219) with a new version!
+[25/10 23:11:04] Replaced quest Q00220_TestimonyOfGlory (220) with a new version!
+[25/10 23:11:04] Replaced quest Q00221_TestimonyOfProsperity (221) with a new version!
+[25/10 23:11:04] Replaced quest Q00222_TestOfTheDuelist (222) with a new version!
+[25/10 23:11:04] Replaced quest Q00223_TestOfTheChampion (223) with a new version!
+[25/10 23:11:04] Replaced quest Q00224_TestOfSagittarius (224) with a new version!
+[25/10 23:11:04] Replaced quest Q00225_TestOfTheSearcher (225) with a new version!
+[25/10 23:11:04] Replaced quest Q00226_TestOfTheHealer (226) with a new version!
+[25/10 23:11:04] Replaced quest Q00227_TestOfTheReformer (227) with a new version!
+[25/10 23:11:04] Replaced quest Q00228_TestOfMagus (228) with a new version!
+[25/10 23:11:04] Replaced quest Q00229_TestOfWitchcraft (229) with a new version!
+[25/10 23:11:04] Replaced quest Q00230_TestOfTheSummoner (230) with a new version!
+[25/10 23:11:04] Replaced quest Q00231_TestOfTheMaestro (231) with a new version!
+[25/10 23:11:04] Replaced quest Q00232_TestOfTheLord (232) with a new version!
+[25/10 23:11:04] Replaced quest Q00233_TestOfTheWarSpirit (233) with a new version!
+[25/10 23:11:04] Replaced quest Q00234_FatesWhisper (234) with a new version!
+[25/10 23:11:04] Replaced quest Q00235_MimirsElixir (235) with a new version!
+[25/10 23:11:04] Replaced quest Q00255_Tutorial (255) with a new version!
+[25/10 23:11:04] Replaced quest Q00257_TheGuardIsBusy (257) with a new version!
+[25/10 23:11:04] Replaced quest Q00258_BringWolfPelts (258) with a new version!
+[25/10 23:11:04] Replaced quest Q00259_RequestFromTheFarmOwner (259) with a new version!
+[25/10 23:11:04] Replaced quest Q00260_OrcHunting (260) with a new version!
+[25/10 23:11:04] Replaced quest Q00261_CollectorsDream (261) with a new version!
+[25/10 23:11:04] Replaced quest Q00262_TradeWithTheIvoryTower (262) with a new version!
+[25/10 23:11:04] Replaced quest Q00263_OrcSubjugation (263) with a new version!
+[25/10 23:11:04] Replaced quest Q00264_KeenClaws (264) with a new version!
+[25/10 23:11:04] Replaced quest Q00265_BondsOfSlavery (265) with a new version!
+[25/10 23:11:04] Replaced quest Q00266_PleasOfPixies (266) with a new version!
+[25/10 23:11:04] Replaced quest Q00267_WrathOfVerdure (267) with a new version!
+[25/10 23:11:04] Replaced quest Q00271_ProofOfValor (271) with a new version!
+[25/10 23:11:04] Replaced quest Q00272_WrathOfAncestors (272) with a new version!
+[25/10 23:11:04] Replaced quest Q00273_InvadersOfTheHolyLand (273) with a new version!
+[25/10 23:11:04] Replaced quest Q00274_SkirmishWithTheWerewolves (274) with a new version!
+[25/10 23:11:04] Replaced quest Q00275_DarkWingedSpies (275) with a new version!
+[25/10 23:11:04] Replaced quest Q00276_TotemOfTheHestui (276) with a new version!
+[25/10 23:11:04] Replaced quest Q00277_GatekeepersOffering (277) with a new version!
+[25/10 23:11:04] Replaced quest Q00292_BrigandsSweep (292) with a new version!
+[25/10 23:11:04] Replaced quest Q00293_TheHiddenVeins (293) with a new version!
+[25/10 23:11:04] Replaced quest Q00294_CovertBusiness (294) with a new version!
+[25/10 23:11:04] Replaced quest Q00295_DreamingOfTheSkies (295) with a new version!
+[25/10 23:11:04] Replaced quest Q00296_TarantulasSpiderSilk (296) with a new version!
+[25/10 23:11:04] Replaced quest Q00297_GatekeepersFavor (297) with a new version!
+[25/10 23:11:04] Replaced quest Q00300_HuntingLetoLizardman (300) with a new version!
+[25/10 23:11:04] Replaced quest Q00303_CollectArrowheads (303) with a new version!
+[25/10 23:11:04] Replaced quest Q00306_CrystalOfFireAndIce (306) with a new version!
+[25/10 23:11:04] Replaced quest Q00313_CollectSpores (313) with a new version!
+[25/10 23:11:04] Replaced quest Q00316_DestroyPlagueCarriers (316) with a new version!
+[25/10 23:11:04] Replaced quest Q00317_CatchTheWind (317) with a new version!
+[25/10 23:11:04] Replaced quest Q00319_ScentOfDeath (319) with a new version!
+[25/10 23:11:04] Replaced quest Q00320_BonesTellTheFuture (320) with a new version!
+[25/10 23:11:04] Replaced quest Q00324_SweetestVenom (324) with a new version!
+[25/10 23:11:04] Replaced quest Q00325_GrimCollector (325) with a new version!
+[25/10 23:11:04] Replaced quest Q00326_VanquishRemnants (326) with a new version!
+[25/10 23:11:04] Replaced quest Q00327_RecoverTheFarmland (327) with a new version!
+[25/10 23:11:04] Replaced quest Q00328_SenseForBusiness (328) with a new version!
+[25/10 23:11:04] Replaced quest Q00329_CuriosityOfADwarf (329) with a new version!
+[25/10 23:11:04] Replaced quest Q00331_ArrowOfVengeance (331) with a new version!
+[25/10 23:11:04] Replaced quest Q00333_HuntOfTheBlackLion (333) with a new version!
+[25/10 23:11:04] Replaced quest Q00344_1000YearsTheEndOfLamentation (344) with a new version!
+[25/10 23:11:04] Replaced quest Q00348_AnArrogantSearch (348) with a new version!
+[25/10 23:11:04] Replaced quest Q00350_EnhanceYourWeapon (350) with a new version!
+[25/10 23:11:04] [EnhanceYourWeapon] Loaded 54 Soul Crystal data.
+[25/10 23:11:04] [EnhanceYourWeapon] Loaded 124 npc Leveling info data.
+[25/10 23:11:04] Replaced quest Q00354_ConquestOfAlligatorIsland (354) with a new version!
+[25/10 23:11:04] Replaced quest Q00355_FamilyHonor (355) with a new version!
+[25/10 23:11:04] Replaced quest Q00356_DigUpTheSeaOfSpores (356) with a new version!
+[25/10 23:11:04] Replaced quest Q00358_IllegitimateChildOfTheGoddess (358) with a new version!
+[25/10 23:11:04] Replaced quest Q00360_PlunderTheirSupplies (360) with a new version!
+[25/10 23:11:04] Replaced quest Q00369_CollectorOfJewels (369) with a new version!
+[25/10 23:11:04] Replaced quest Q00370_AnElderSowsSeeds (370) with a new version!
+[25/10 23:11:04] Replaced quest Q00373_SupplierOfReagents (373) with a new version!
+[25/10 23:11:04] Replaced quest Q00374_WhisperOfDreamsPart1 (374) with a new version!
+[25/10 23:11:04] Replaced quest Q00375_WhisperOfDreamsPart2 (375) with a new version!
+[25/10 23:11:04] Replaced quest Q00401_PathOfTheWarrior (401) with a new version!
+[25/10 23:11:04] Replaced quest Q00402_PathOfTheHumanKnight (402) with a new version!
+[25/10 23:11:04] Replaced quest Q00403_PathOfTheRogue (403) with a new version!
+[25/10 23:11:04] Replaced quest Q00404_PathOfTheHumanWizard (404) with a new version!
+[25/10 23:11:04] Replaced quest Q00405_PathOfTheCleric (405) with a new version!
+[25/10 23:11:04] Replaced quest Q00406_PathOfTheElvenKnight (406) with a new version!
+[25/10 23:11:04] Replaced quest Q00407_PathOfTheElvenScout (407) with a new version!
+[25/10 23:11:04] Replaced quest Q00408_PathOfTheElvenWizard (408) with a new version!
+[25/10 23:11:04] Replaced quest Q00409_PathOfTheElvenOracle (409) with a new version!
+[25/10 23:11:04] Replaced quest Q00410_PathOfThePalusKnight (410) with a new version!
+[25/10 23:11:04] Replaced quest Q00411_PathOfTheAssassin (411) with a new version!
+[25/10 23:11:04] Replaced quest Q00412_PathOfTheDarkWizard (412) with a new version!
+[25/10 23:11:04] Replaced quest Q00413_PathOfTheShillienOracle (413) with a new version!
+[25/10 23:11:04] Replaced quest Q00414_PathOfTheOrcRaider (414) with a new version!
+[25/10 23:11:04] Replaced quest Q00415_PathOfTheOrcMonk (415) with a new version!
+[25/10 23:11:04] Replaced quest Q00416_PathOfTheOrcShaman (416) with a new version!
+[25/10 23:11:04] Replaced quest Q00417_PathOfTheScavenger (417) with a new version!
+[25/10 23:11:04] Replaced quest Q00418_PathOfTheArtisan (418) with a new version!
+[25/10 23:11:04] Replaced quest Q00420_LittleWing (420) with a new version!
+[25/10 23:11:04] Replaced quest Q00421_LittleWingsBigAdventure (421) with a new version!
+[25/10 23:11:04] Replaced quest Q00605_AllianceWithKetraOrcs (605) with a new version!
+[25/10 23:11:04] Replaced quest Q00606_BattleAgainstVarkaSilenos (606) with a new version!
+[25/10 23:11:04] Replaced quest Q00611_AllianceWithVarkaSilenos (611) with a new version!
+[25/10 23:11:04] Replaced quest Q00612_BattleAgainstKetraOrcs (612) with a new version!
+[25/10 23:11:04] Replaced quest Q00617_GatherTheFlames (617) with a new version!
+[25/10 23:11:04] Replaced quest Q00620_FourGoblets (620) with a new version!
+[25/10 23:11:04] Replaced quest Q00622_SpecialtyLiquorDelivery (622) with a new version!
+[25/10 23:11:04] Replaced quest Q00623_TheFinestFood (623) with a new version!
+[25/10 23:11:04] Replaced quest Q00628_HuntGoldenRam (628) with a new version!
+[25/10 23:11:04] Replaced quest Q00630_PirateTreasureHunt (630) with a new version!
+[25/10 23:11:04] Replaced quest Q00640_TheZeroHour (640) with a new version!
+[25/10 23:11:04] Replaced quest Q00641_AttackSailren (641) with a new version!
+[25/10 23:11:04] Replaced quest Q00642_APowerfulPrimevalCreature (642) with a new version!
+[25/10 23:11:04] Replaced quest Q00643_RiseAndFallOfTheElrokiTribe (643) with a new version!
+[25/10 23:11:04] Replaced quest Q00657_MonsterArenaTrialForWarriors (657) with a new version!
+[25/10 23:11:04] Replaced quest Q00658_MonsterArenaTrialForEliteWarriors (658) with a new version!
+[25/10 23:11:04] Replaced quest Q00662_AGameOfCards (662) with a new version!
+[25/10 23:11:04] Replaced quest Q00664_QuarrelsTime (664) with a new version!
+[25/10 23:11:04] Replaced quest Q00688_DefeatTheElrokianRaiders (688) with a new version!
+[25/10 23:11:04] Replaced quest Q00910_RequestFromTheRedLibraGuildBasic (910) with a new version!
+[25/10 23:11:04] Replaced quest Q00911_RequestFromTheRedLibraGuildIntermediate (911) with a new version!
+[25/10 23:11:04] Replaced quest Q00912_RequestFromTheRedLibraGuildAdvanced (912) with a new version!
+[25/10 23:11:04] Replaced quest Q00913_RequestFromTheRedLibraGuildSuperAdvanced (913) with a new version!
+[25/10 23:11:04] Replaced quest Q00933_ExploringTheWestWingOfTheDungeonOfAbyss (933) with a new version!
+[25/10 23:11:04] Replaced quest Q00935_ExploringTheEastWingOfTheDungeonOfAbyss (935) with a new version!
+[25/10 23:11:04] Replaced quest Q10861_MonsterArenaTheBirthOfAWarrior (10861) with a new version!
+[25/10 23:11:04] Replaced quest Q10862_MonsterArenaChallenge10Battles (10862) with a new version!
+[25/10 23:11:04] Replaced quest Q10863_MonsterArenaNewChallenge15Battles (10863) with a new version!
+[25/10 23:11:04] Replaced quest Q10864_MonsterArenaBraveWarrior25Battles (10864) with a new version!
+[25/10 23:11:04] Replaced quest Q10865_MonsterArenaLastCall40Battles (10865) with a new version!
+[25/10 23:11:04] Replaced quest Q10866_PunitiveOperationOnTheDevilIsle (10866) with a new version!
+[25/10 23:11:04] Replaced quest Q10867_GoneMissing (10867) with a new version!
+[25/10 23:11:04] Replaced quest Q10868_TheDarkSideOfPower (10868) with a new version!
+[25/10 23:11:04] Replaced quest Q10870_UnfinishedDevice (10870) with a new version!
+[25/10 23:11:04] Replaced quest Q10871_DeathToThePirateKing (10871) with a new version!
+[25/10 23:11:04] Replaced quest Q10993_FutureDwarves (10993) with a new version!
+[25/10 23:11:04] Replaced quest Q10994_FutureOrcs (10994) with a new version!
+[25/10 23:11:04] Replaced quest Q10995_MutualBenefit (10995) with a new version!
+[25/10 23:11:04] Replaced quest Q10996_TemplesDecorations (10996) with a new version!
+[25/10 23:11:04] Replaced quest Q10997_LoserPriest1 (10997) with a new version!
+[25/10 23:11:04] Replaced quest Q10998_LoserPriest2 (10998) with a new version!
+[25/10 23:11:04] Replaced quest Q10999_LoserPriest3 (10999) with a new version!
+[25/10 23:11:04] Replaced quest Q11000_MoonKnight (11000) with a new version!
+[25/10 23:11:04] Replaced quest Q11001_TombsOfAncestors (11001) with a new version!
+[25/10 23:11:04] Replaced quest Q11002_HelpWithTempleRestoration (11002) with a new version!
+[25/10 23:11:04] Replaced quest Q11003_PerfectLeatherArmor1 (11003) with a new version!
+[25/10 23:11:04] Replaced quest Q11004_PerfectLeatherArmor2 (11004) with a new version!
+[25/10 23:11:04] Replaced quest Q11005_PerfectLeatherArmor3 (11005) with a new version!
+[25/10 23:11:04] Replaced quest Q11006_FuturePeople (11006) with a new version!
+[25/10 23:11:04] Replaced quest Q11007_NoiseInWoods (11007) with a new version!
+[25/10 23:11:04] Replaced quest Q11008_PreparationForDungeon (11008) with a new version!
+[25/10 23:11:04] Replaced quest Q11009_NewPotionDevelopment1 (11009) with a new version!
+[25/10 23:11:04] Replaced quest Q11010_NewPotionDevelopment2 (11010) with a new version!
+[25/10 23:11:04] Replaced quest Q11011_NewPotionDevelopment3 (11011) with a new version!
+[25/10 23:11:04] Replaced quest Q11012_FutureElves (11012) with a new version!
+[25/10 23:11:04] Replaced quest Q11013_ShilensHunt (11013) with a new version!
+[25/10 23:11:04] Replaced quest Q11014_SurpriseGift (11014) with a new version!
+[25/10 23:11:04] Replaced quest Q11015_PrepareForTrade1 (11015) with a new version!
+[25/10 23:11:04] Replaced quest Q11016_PrepareForTrade2 (11016) with a new version!
+[25/10 23:11:04] Replaced quest Q11017_PrepareForTrade3 (11017) with a new version!
+[25/10 23:11:04] Replaced quest Q11018_FutureDarkElves (11018) with a new version!
+[25/10 23:11:04] Replaced quest Q11019_TribalBenefit (11019) with a new version!
+[25/10 23:11:04] Replaced quest Q11020_BlacksmithsRequest (11020) with a new version!
+[25/10 23:11:04] Replaced quest Q11021_RedGemNecklace1 (11021) with a new version!
+[25/10 23:11:04] Replaced quest Q11022_RedGemNecklace2 (11022) with a new version!
+[25/10 23:11:04] Replaced quest Q11023_RedGemNecklace3 (11023) with a new version!
+[25/10 23:30:58] GlobalVariablesManager: Stored 3 variables.
+[25/10 23:30:58] Olympiad System: Data updated.
+[26/10 00:00:03] Olympiad System: Olympiad games have ended.
+[26/10 00:00:03] Olympiad System: Competition Period Starts in 0 days, 17 hours and 59 mins.
+[26/10 00:00:03] Olympiad System: Event starts/started: Sat Oct 26 18:00:03 UTC 2024
+[26/10 00:00:58] GlobalVariablesManager: Stored 3 variables.
+[26/10 00:30:58] GlobalVariablesManager: Stored 3 variables.
+[26/10 01:00:58] GlobalVariablesManager: Stored 3 variables.
+[26/10 01:30:58] GlobalVariablesManager: Stored 3 variables.
+[26/10 02:00:58] GlobalVariablesManager: Stored 3 variables.
+[26/10 02:30:58] GlobalVariablesManager: Stored 3 variables.

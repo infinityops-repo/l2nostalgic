@@ -1,0 +1,13 @@
+[25/10 20:24:52] Database: Initialized.
+[25/10 20:24:52] ThreadPool: Initialized
+[25/10 20:24:52] ...scheduled pool executor with 2 total threads.
+[25/10 20:24:52] ...instant pool executor with 2 total threads.
+[25/10 20:24:52] Loading LoginController...
+[25/10 20:24:52] Cached 10 KeyPairs for RSA communication.
+[25/10 20:24:52] Stored 20 keys for Blowfish communication.
+[25/10 20:24:53] Loaded 127 server names.
+[25/10 20:24:53] Loaded 1 registered Game Servers.
+[25/10 20:24:53] Cached 10 RSA keys for Game Server communication.
+[25/10 20:24:53] Loaded 2 IP Bans.
+[25/10 20:24:53] Listening for GameServers on 127.0.0.1:9014
+[25/10 20:24:53] LoginServer: is now listening on: 0.0.0.0:2106

@@ -1,0 +1,26 @@
+[25/10 20:26:42] Database: Initialized.
+[25/10 20:26:42] ThreadPool: Initialized
+[25/10 20:26:42] ...scheduled pool executor with 2 total threads.
+[25/10 20:26:42] ...instant pool executor with 2 total threads.
+[25/10 20:26:42] Loading LoginController...
+[25/10 20:26:43] Cached 10 KeyPairs for RSA communication.
+[25/10 20:26:43] Stored 20 keys for Blowfish communication.
+[25/10 20:26:43] Loaded 127 server names.
+[25/10 20:26:43] Loaded 1 registered Game Servers.
+[25/10 20:26:43] Cached 10 RSA keys for Game Server communication.
+[25/10 20:26:43] Loaded 2 IP Bans.
+[25/10 20:26:43] Listening for GameServers on 127.0.0.1:9014
+[25/10 20:26:43] LoginServer: is now listening on: 0.0.0.0:2106
+[25/10 20:31:02] Updated Gameserver [1] Bartz IP's:
+[25/10 20:31:02] 10.108.0.2/10.108.0.0/20
+[25/10 20:31:02] 10.17.0.5/10.17.0.0/16
+[25/10 20:31:02] 161.35.135.230/161.35.128.0/20
+[25/10 20:31:02] 127.0.0.1/127.0.0.0/8
+[25/10 20:31:02] 161.35.135.230/0.0.0.0/0
+[26/10 02:54:36] Server [1] Bartz is now set as disconnected.
+[26/10 13:12:47] Updated Gameserver [1] Bartz IP's:
+[26/10 13:12:47] 10.108.0.2/10.108.0.0/20
+[26/10 13:12:47] 10.17.0.5/10.17.0.0/16
+[26/10 13:12:47] 161.35.135.230/161.35.128.0/20
+[26/10 13:12:47] 127.0.0.1/127.0.0.0/8
+[26/10 13:12:47] 161.35.135.230/0.0.0.0/0
